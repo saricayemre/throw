@@ -5,11 +5,11 @@ ağa bağlı olanların internetini kesme aracı
 
 # NOT
 Dosyaları $HOME klasöründe saklayınız. Aksi halde düzgün çalışmayabilir.
-
+```bash
 git clone https://github.com/saricayemre/throw <br>
 cd cyberhunter <br>
 bash throw.sh <br>
-
+```
 video:
 
 [video](https://youtu.be/gcyvnDVLt00)
